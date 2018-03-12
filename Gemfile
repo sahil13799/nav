@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+gem 'simple_form', '~> 3.5', '>= 3.5.1'
+
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
